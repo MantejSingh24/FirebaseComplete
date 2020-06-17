@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "421777652085",
+    "firebase_url": "https://stories-b56dc.firebaseio.com",
+    "project_id": "stories-b56dc",
+    "storage_bucket": "stories-b56dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421777652085:android:9918b93e79b4e0c528bb3c",
+        "android_client_info": {
+          "package_name": "com.stories"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "421777652085-saergbebsjj30hd4t9036iebnu5bqfsl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9tAoLG9DdtoWa-72Wc9bYkc6pUuqEo9M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "421777652085-saergbebsjj30hd4t9036iebnu5bqfsl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
